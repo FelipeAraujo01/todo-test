@@ -22,4 +22,11 @@ Entrada no input:
 Estudar JavaScript;Desenvolver projeto;Fazer exercícios;Revisar código
 ```
 
+Resultado esperado:
+- Estudar JavaScript
+- Desenvolver projeto
+- Fazer exercícios
+- Revisar código
+
+---
 
